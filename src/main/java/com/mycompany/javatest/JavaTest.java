@@ -14,5 +14,8 @@ public class JavaTest {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
+        
+        int contador;
+        for(contador=1;contador<=10;contador++){ System.out.println(contador); }
     }
 }
